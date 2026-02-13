@@ -48,7 +48,8 @@ It is designed for researchers, cloud engineers, cybersecurity professionals, an
 
 This repository contains:
 
-- 📄 English Executive Summary (PDF version)
+- 📄 - 📄 [Download English Executive Summary (PDF)](AI_Cloud_Cybersecurity_Book_Summary_EN.pdf)
+
 
 Full Persian version is published with official ISBN.
 
